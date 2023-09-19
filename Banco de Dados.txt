@@ -1,0 +1,14 @@
+/* Criando banco de dados*/ 
+CREATE DATABASE db_livraria
+
+USE db_livraria
+
+/* Criando tabela */
+CREATE TABLE livros (
+	codigo INT NOT NULL IDENTITY,
+	titulo VARCHAR(100) NOT NULL,
+	autor VARCHAR(100) NOT NULL,
+	editor VARCHAR(100) NOT NULL,
+	genero VARCHAR(50) NOT NULL
+	CONSTRAINT pk_livros PRIMARY KEY (codigo)
+)

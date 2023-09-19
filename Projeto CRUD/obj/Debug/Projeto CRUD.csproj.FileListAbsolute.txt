@@ -1,0 +1,10 @@
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\bin\Debug\Projeto CRUD.exe.config
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\bin\Debug\Projeto CRUD.exe
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\bin\Debug\Projeto CRUD.pdb
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\obj\Debug\Projeto CRUD.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\obj\Debug\Projeto_CRUD.frmCadastroLivros.resources
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\obj\Debug\Projeto_CRUD.Properties.Resources.resources
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\obj\Debug\Projeto CRUD.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\obj\Debug\Projeto CRUD.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\obj\Debug\Projeto CRUD.exe
+C:\Users\bruno\source\repos\Projeto CRUD\Projeto CRUD\obj\Debug\Projeto CRUD.pdb
